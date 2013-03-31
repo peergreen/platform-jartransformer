@@ -52,6 +52,7 @@
     </dependency>
   </dependencies>
 
+
   <scm>
     <connection>scm:git:https://forge.peergreen.com/git/git/platform/jartransformer.git</connection>
     <developerConnection>scm:git:https://forge.peergreen.com/git/git/platform/jartransformer.git</developerConnection>
