@@ -58,4 +58,5 @@
     <developerConnection>scm:git:https://forge.peergreen.com/git/git/platform/jartransformer.git</developerConnection>
     <url>https://forge.peergreen.com/git/summary/?r=platform/jartransformer.git</url>
   </scm>
+
 </project>
