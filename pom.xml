@@ -25,7 +25,7 @@
   <groupId>com.peergreen.jartransformer</groupId>
   <artifactId>peergreen-jartransformer</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.0</version>
+  <version>1.0.1-SNAPSHOT</version>
   <name>Peergreen Jar Transformer</name>
 
   <build>
@@ -56,7 +56,7 @@
     <connection>scm:git:https://forge.peergreen.com/git/git/platform/jartransformer.git</connection>
     <developerConnection>scm:git:https://forge.peergreen.com/git/git/platform/jartransformer.git</developerConnection>
     <url>https://forge.peergreen.com/git/summary/?r=platform/jartransformer.git</url>
-    <tag>PEERGREEN_JARTRANSFORMER_1_0_0</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <repositories>
